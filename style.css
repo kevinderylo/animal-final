@@ -1,0 +1,33 @@
+body{
+    background: #001d27;
+    font-family: 'Press Start 2P', cursive;
+    color: darkgrey;
+}
+.header_div{
+    background: darkslategray;
+    color: antiquewhite;
+}
+.header_div p{
+    font-family: monospace;
+    color: antiquewhite;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+}
+.maine_div button{
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+.copy_right_footer{
+    position: fixed;
+    color: khaki;
+    background-color:seagreen;
+    text-align: center;
+    line-height: 3;
+    font-size: 18px;
+    width: 100%;
+    bottom: 0%;
+    text-shadow: 5px 5px 5px darkslategray;
+}
